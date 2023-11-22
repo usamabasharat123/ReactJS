@@ -1,4 +1,3 @@
-# ReactJS Projects Showcase
-Welcome to the ReactJS Projects Showcase repository! 🚀
+# Password Generator video demo 
 
-Explore a collection of ReactJS projects that demonstrate the power and versatility of this popular JavaScript library. Whether you're a seasoned developer looking for inspiration or a beginner eager to learn, this repository is a treasure trove of innovative React applications.
+https://github.com/usamabasharat123/ReactJS/assets/119398497/322fb415-624a-4332-b391-b6545a8507c4
