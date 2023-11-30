@@ -9,8 +9,8 @@ The Currency Exchange Rate Project is a web application designed to provide user
 https://github.com/usamabasharat123/ReactJS/assets/119398497/5441cded-6c2d-43b1-804a-11e62d9453d5
 
 ## Table of Contents
-- [Real-Time Exchnage Rates](#features) Fetches the latest exchange rates from the CurrencyAPI to ensure accurate and up-to-date information.
-- [User-Friendly Interface](#features) Utilizes Material-UI for a clean and intuitive user interface, enhancing the overall user experience.
-- [Custom Hooks](#features) Implements custom hooks to manage state and logic, promoting code reusability and maintainability.
-- [React Context](#features) Leverages React Context to efficiently manage global state, facilitating seamless communication between components.
+- [Real-Time Exchnage Rates](https://freecurrencyapi.com/) Fetches the latest exchange rates from the CurrencyAPI to ensure accurate and up-to-date information.
+- [User-Friendly Interface](https://mui.com/) Utilizes Material-UI for a clean and intuitive user interface, enhancing the overall user experience.
+- [Custom Hooks](https://legacy.reactjs.org/docs/hooks-custom.html) Implements custom hooks to manage state and logic, promoting code reusability and maintainability.
+- [React Context](https://legacy.reactjs.org/docs/context.html) Leverages React Context to efficiently manage global state, facilitating seamless communication between components.
 
